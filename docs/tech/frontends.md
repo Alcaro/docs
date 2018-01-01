@@ -14,7 +14,7 @@ Name | Author(s) | Last Release | Description
 [ZMZ](https://github.com/Alcaro/ZMZ) | Alcaro | Abandoned | Fork of [ZSNES](http://www.zsnes.com/) that rips out its emulation code, using libretro instead. Due to ZSNES being inflexible, ZMZ became quite a bit of a mess.
 [retro_frontend](https://github.com/genodelabs/genode-world/tree/master/src/app/retro_frontend) | Genodelabs | | Minimal frontend for the [Genode](http://genode.org) operating system framework. No features intended, but is extensible via abstraction of operating system services.
 [RetroPlayer](https://forum.kodi.tv/forumdisplay.php?fid=194) | Kodi-Game | | Also known as [Kodi-Game](https://github.com/kodi-game/), RetroPlayer is a libretro compatibility layer for [Kodi](https://kodi.tv/).
-einweggerät | mudlord | | Debugging tool for libretro cores.
+[einweggerät](https://github.com/mudlord/einweggerat) | mudlord | | Debugging tool for libretro cores.
 [nanoarch](https://github.com/heuripedes/nanoarch) | heuripedes | | Small frontend providing video, audio and basic input features to run non-libretro-GL cores. Built on GLFW.
 [sdlarch](https://github.com/heuripedes/sdlarch) | heuripedes | | Small frontend providing video, audio and basic input to run basic libretro cores. Built on SDL.
 [noarch](https://github.com/robloach/noarch) | RobLoach | | Minimalist frontend which does not provide video, audio or even basic input. It loads a libretro core, runs an iteration, and then exits. Good for unit testing.
